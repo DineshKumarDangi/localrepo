@@ -1,1 +1,2 @@
-#This is my local repogit status
+# This is my local repogit status
+git add .
